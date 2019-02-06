@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: df27018c1b43ad34d8c340079b78cf2a
+timeCreated: 1546674342
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - myRigidBody: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - flapClick: {fileID: 8300000, guid: 871a3ed58ca1c3542bfd3b2b18fcc974, type: 3}
+  - pointClip: {fileID: 8300000, guid: 3161104a54b188f45bf2113ee7a26a92, type: 3}
+  - diedClip: {fileID: 8300000, guid: a39d41f487f82304980447a674b65cb1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
